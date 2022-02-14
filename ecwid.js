@@ -7,7 +7,7 @@ ec.order.extraFields = ec.order.extraFields || {};
 ec.order.extraFields.wrapping_box_signature = {
     'title': 'Weitergabe der E-Mail-Adresse an Versanddienstleister',
     'type': 'checkbox',
-    'options': [{'title':'genehmigen'}],
+    'options': [{'title':'Ich stimme der Weitergabe zu'}],
     'required': false,
     'checkoutDisplaySection': 'shipping_address'
 };
