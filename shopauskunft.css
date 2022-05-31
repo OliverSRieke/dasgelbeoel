@@ -1,0 +1,10 @@
+<style scoped>
+@media only screen and (min-width: 768px)  {
+    div#shopauskunft_widget{
+        display: block;
+        position: fixed;
+        right: 10px;
+        bottom: 10px;
+    }
+}
+</style>
